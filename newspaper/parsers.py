@@ -9,7 +9,7 @@ or query an lxml or soup dom object generated from an article's html.
 import logging
 import lxml.etree
 import lxml.html
-import lxml.html.clean
+import lxml_html_clean
 import re
 from html import unescape
 import string
